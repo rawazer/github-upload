@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/local_to_github_test.dir/main.cpp.o  -o local_to_github_test 
